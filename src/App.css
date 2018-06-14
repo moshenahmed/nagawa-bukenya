@@ -50,3 +50,36 @@
 
 }
 
+@media screen and (max-device-width: 600px){
+    .uganda {
+        display: block;
+        position: fixed;
+        bottom: 0%;
+        font-size: 10px;
+        left: 15%;
+    }
+
+    .sweden {
+        display: block;
+        position: fixed;
+        bottom: 15%;
+font-size: 10px;
+        left: 20%;
+    }
+    .App-intro {
+        font-size: 15px;
+    }
+
+    .App-title {
+        font-size: 20px;
+        font-family: 'Roboto', Arial;
+    }
+    .footer {
+        display: block;
+        position: fixed;
+        bottom: 0%;
+        left: 20%;
+    }
+
+}
+
