@@ -13,9 +13,9 @@ class App extends Component {
             </pre>
         </header>
         <p className="App-intro">
-            Nagawa Bukenya is a web application development company based in stockholm sweden, which deals in developing Web Applications in .Net FrameWork and .Net Core.
-            <p> We also couple our work with best front end development using react js.</p>
-            <p> Our market spans locally here in Sweden, and the whole EU, as well as Africa and the Middle East.</p>
+            Confidently and securely  develop sustainable solutions based on our clients needs as we bring out the clear business logic and enhance performance.
+            <p>We offer backend, front end and full stack tailored solutions and focus is put on the clients objective until achieved</p>
+            <p>Our clients enjoy affordable sustainable services coupled with all time technical support.</p>
         </p>
           <div className="footer">
               <ul className="sweden">
@@ -28,9 +28,10 @@ class App extends Component {
                   </p>
               </ul>
               <ul className="uganda">
-                  <h3>AFRICA OFFICE</h3>
                   <p>
-                      Kasenyi road, P.O BOX 16588 Entebbe<br/>
+                      <h3>AFRICA OFFICE</h3>
+                      Plot 521, Kasenyi road, Nkumba<br/>
+                      P.O BOX 16588 Entebbe<br/>
                       Kampala - Uganda<br/>
                       Email: info@nb.se<br/>
                       Call or Whatsapp: +256704005225
