@@ -18,7 +18,7 @@ class App extends Component {
             <p>Our clients enjoy affordable sustainable services coupled with all time technical support.</p>
         </p>
           <div className="footer">
-              <ul className="sweden">
+              <div className="sweden">
                   <h3>HEAD OFFICE</h3>
                   <p>
                       Mellanbergsvägen 27, 13546 Tyresö<br/>
@@ -26,8 +26,8 @@ class App extends Component {
                       Email: info@nb.se<br/>
                       Call us: +46790256092
                   </p>
-              </ul>
-              <ul className="uganda">
+              </div>
+              <div className="uganda">
                   <p>
                       <h3>AFRICA OFFICE</h3>
                       Plot 521, Kasenyi road, Nkumba<br/>
@@ -36,7 +36,7 @@ class App extends Component {
                       Email: info@nb.se<br/>
                       Call or Whatsapp: +256704005225
                   </p>
-              </ul>
+              </div>
           </div>
       </div>
     );
