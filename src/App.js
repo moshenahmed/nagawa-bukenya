@@ -34,7 +34,7 @@ class App extends Component {
                       P.O BOX 16588 Entebbe<br/>
                       Kampala - Uganda<br/>
                       Email: info@nb.se<br/>
-                      Call or Whatsapp: +256704005225
+                      Tel: +256782163203, Whatsapp: +256704005225
                   </p>
               </div>
           </div>
